@@ -32,6 +32,8 @@
 | 6 | ![image](https://user-images.githubusercontent.com/57373602/126241978-9e161e7e-2e65-47d1-a787-4a3478172f68.png) | Josefin Sans Regular |
 | 7 |![image](https://user-images.githubusercontent.com/57373602/126242675-ca9919f2-945c-4517-87e4-76c0cdbd8e72.png)| Open Sans Light |
 | 8 |![image](https://user-images.githubusercontent.com/57373602/126242755-af468f3e-f53c-44a6-913b-2109d729d55a.png)| Aleo |
+| 9 | ![image](https://user-images.githubusercontent.com/57373602/126246568-cd2a0378-c50f-4608-bbc0-cc41c63e5872.png) | Pony Club |
+| 10 | ![image](https://user-images.githubusercontent.com/57373602/126246630-3a86e131-b11b-429c-96ee-aca85f5109cc.png) | Monteserrat Light |
 
 ----
 # Texturas
