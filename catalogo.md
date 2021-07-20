@@ -42,3 +42,4 @@
 | # | Imagem | Nome |
 |---|----|----|
 | 1 | ![image](https://user-images.githubusercontent.com/57373602/126242925-193f0725-4584-44f0-9d83-f5a878407ea8.png) | Watercolor Texture |
+| 2 | ![image](https://user-images.githubusercontent.com/57373602/126246752-b00fd328-97f4-422f-86da-d78f61eb3f80.png) | Crumpled paper |
