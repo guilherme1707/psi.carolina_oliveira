@@ -24,10 +24,10 @@
 
 | # | Fonte | Nome |
 |---|---|---|
-| 2 | ![image](https://user-images.githubusercontent.com/57373602/126242103-7c64a3ca-f045-4700-b1d8-a896829e6f2c.png) | CMU Serif |
-| 4 |![image](https://user-images.githubusercontent.com/57373602/126242437-4c6ec356-6996-4d7e-8955-262782bbf36c.png) | Bree Serif |
-| 9 | ![image](https://user-images.githubusercontent.com/57373602/126246568-cd2a0378-c50f-4608-bbc0-cc41c63e5872.png) | Pony Club |
-| 10 | ![image](https://user-images.githubusercontent.com/57373602/126246630-3a86e131-b11b-429c-96ee-aca85f5109cc.png) | Monteserrat Light |
+| 1 | ![image](https://user-images.githubusercontent.com/57373602/126242103-7c64a3ca-f045-4700-b1d8-a896829e6f2c.png) | CMU Serif |
+| 2 |![image](https://user-images.githubusercontent.com/57373602/126242437-4c6ec356-6996-4d7e-8955-262782bbf36c.png) | Bree Serif |
+| 3 | ![image](https://user-images.githubusercontent.com/57373602/126246568-cd2a0378-c50f-4608-bbc0-cc41c63e5872.png) | Pony Club |
+| 4 | ![image](https://user-images.githubusercontent.com/57373602/126246630-3a86e131-b11b-429c-96ee-aca85f5109cc.png) | Monteserrat Light |
 
 > incluir 'Alice', 'sifonn'
 
@@ -37,5 +37,4 @@
 
 | # | Imagem | Nome |
 |---|----|----|
-| 1 | ![image](https://user-images.githubusercontent.com/57373602/126242925-193f0725-4584-44f0-9d83-f5a878407ea8.png) | Watercolor Texture |
-| 2 | ![image](https://user-images.githubusercontent.com/57373602/126246752-b00fd328-97f4-422f-86da-d78f61eb3f80.png) | Crumpled paper |
+| 1 | ![image](https://user-images.githubusercontent.com/57373602/126246752-b00fd328-97f4-422f-86da-d78f61eb3f80.png) | Crumpled paper |
