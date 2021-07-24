@@ -1,9 +1,23 @@
+
 ## Sumário
 - [Cores](#cores)
+	- [Cores Principais](#cores-principais)
+	- [Cores Opcionais](#cores-opcionais)
 - [Fontes](#fontes)
 - [Texturas](#texturas)
 
 # Cores
+
+### Cores Principais
+
+| # | Cor | Código |
+|---|-----|--------|
+| 1 | ![#8aa38e](https://user-images.githubusercontent.com/57373602/126852300-a804b257-a207-4a8f-8329-ad34c4a7f441.png) | #8aa38e |
+| 2 | ![#f2f3ee](https://user-images.githubusercontent.com/57373602/126852317-f0068690-eccc-4ee1-8d1a-5dc7300da3df.png) | #f2f3ee |
+| 3 | ![#d8ab98](https://user-images.githubusercontent.com/57373602/126852346-cf711873-6cda-4be4-901f-6da84ea29e26.png) | #d8ab98 |
+| 4 | ![#E5C9BC](https://user-images.githubusercontent.com/57373602/126852372-e9aaec43-b1f6-4733-a185-27db404246ca.png) | #E5C9BC |
+
+### Cores Opcionais
 
 | # | Cor | Código |
 |---|-----|--------|
@@ -21,6 +35,16 @@
 ----
 # Fontes
 
+**fontes para capa:**
+- sifonn
+- Pony Club
+- Monteserrat Light
+
+
+**fontes para conteúdo:**
+- CMU Serif
+- Bree Serif
+- Alice
 
 | # | Fonte | Nome |
 |---|---|---|
@@ -28,8 +52,9 @@
 | 2 |![image](https://user-images.githubusercontent.com/57373602/126242437-4c6ec356-6996-4d7e-8955-262782bbf36c.png) | Bree Serif |
 | 3 | ![image](https://user-images.githubusercontent.com/57373602/126246568-cd2a0378-c50f-4608-bbc0-cc41c63e5872.png) | Pony Club |
 | 4 | ![image](https://user-images.githubusercontent.com/57373602/126246630-3a86e131-b11b-429c-96ee-aca85f5109cc.png) | Monteserrat Light |
+| 5 | ![image](https://user-images.githubusercontent.com/57373602/126851703-015c4985-58b7-4efa-9d84-3c623d8ff97a.png) | Alice |
+| 6 | ![image](https://user-images.githubusercontent.com/57373602/126851921-625de1f1-d388-425c-b19f-f66d601dea0b.png) | Sifonn (essa fonte não padrão do canva, precisa copiar de outro projeto ou encontrar em "text") |
 
-> incluir 'Alice', 'sifonn'
 
 ----
 # Texturas
